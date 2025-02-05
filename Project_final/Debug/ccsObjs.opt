@@ -1,0 +1,12 @@
+"./EEPROM.obj"
+"./LCD_lib.obj"
+"./UART.obj"
+"./bonus_throttle.obj"
+"./delay.obj"
+"./main.obj"
+"./pushbutton_lib.obj"
+"./temperature.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./ultara.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
